@@ -1,0 +1,3 @@
+ls - lista todos os arquivos e pasta;
+cd - troca de diretório;
+pwd - mostra o caminho absoluto de onde estou
