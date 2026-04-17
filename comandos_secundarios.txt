@@ -1,1 +1,0 @@
-esse arquivo contém informações adicionais para o curso de git
